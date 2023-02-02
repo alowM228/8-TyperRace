@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\8 TyperRace.exe
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\8 TyperRace.deps.json
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\8 TyperRace.runtimeconfig.json
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\8 TyperRace.dll
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\8 TyperRace.pdb
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.csproj.CopyComplete
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.dll
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\refint\8 TyperRace.dll
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.pdb
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\8 TyperRace.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\8 TyperRace\8 TyperRace\8 TyperRace\obj\Debug\net6.0\ref\8 TyperRace.dll
